@@ -5,7 +5,7 @@
 	transition: all 0.8s ease; -webkit-transition: all 0.8s ease;
 }
 
-.large_title {
+.name_title {
 	margin-bottom: 0.2em;
 	font-size: 4em;
 	line-height: 90%;
@@ -23,11 +23,14 @@ p {
 @media screen and (max-width: 680px) {
 	#logo {
 		margin-top: 0;
-		margin-bottom: 0;
 		width: 15em;
 	}
 
-	.large_title {
+	.name_title {
 		font-size: 3em;
 	}
+	#WE {
+		margin-bottom: 0;
+	}
 }
+
