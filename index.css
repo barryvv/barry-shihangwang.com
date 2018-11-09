@@ -14,7 +14,7 @@
 
 p {
 	font-family:verdana;
-	color:FireBrick;
+	color:Dimgray;
 	display: inline-block;
 	font-size: 1.5em;
 	max-width: 25em;
@@ -23,6 +23,7 @@ p {
 @media screen and (max-width: 680px) {
 	#logo {
 		margin-top: 0;
+		margin-bottom: 0;
 		width: 15em;
 	}
 
